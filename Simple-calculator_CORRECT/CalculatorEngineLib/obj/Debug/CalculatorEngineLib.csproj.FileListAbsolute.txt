@@ -1,0 +1,6 @@
+C:\Users\aarus\Desktop\.NET\Simple-calculator_CORRECT\CalculatorEngineLib\bin\Debug\CalculatorEngineLib.dll
+C:\Users\aarus\Desktop\.NET\Simple-calculator_CORRECT\CalculatorEngineLib\bin\Debug\CalculatorEngineLib.pdb
+C:\Users\aarus\Desktop\.NET\Simple-calculator_CORRECT\CalculatorEngineLib\obj\Debug\CalculatorEngineLib.csproj.AssemblyReference.cache
+C:\Users\aarus\Desktop\.NET\Simple-calculator_CORRECT\CalculatorEngineLib\obj\Debug\CalculatorEngineLib.csproj.CoreCompileInputs.cache
+C:\Users\aarus\Desktop\.NET\Simple-calculator_CORRECT\CalculatorEngineLib\obj\Debug\CalculatorEngineLib.dll
+C:\Users\aarus\Desktop\.NET\Simple-calculator_CORRECT\CalculatorEngineLib\obj\Debug\CalculatorEngineLib.pdb
